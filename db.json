@@ -197,6 +197,15 @@
       "category": "Flowering",
       "rating": 3.8,
       "image": "https://cdn.shopify.com/s/files/1/0579/7924/0580/files/2912cbd46f_480x480.jpg?v=1725000454"
+    },
+    {
+      "id": "23",
+      "name": "Philodendron",
+      "price": "300",
+      "description": "Fresh and clean plant",
+      "category": "indoor",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.gT_fEZy-TiImFuulo13-JAHaE8?pid=Api&P=0&h=180",
+      "rating": 4
     }
   ],
   "orders": [
@@ -328,15 +337,6 @@
       "rating": 4.1,
       "image": "https://m.media-amazon.com/images/I/61NUj7J6VrL._SY300_SX300_QL70_FMwebp_.jpg",
       "description": "Popular air-purifying plant with long feathery leaves."
-    },
-    {
-      "id": "4",
-      "name": "zz plant",
-      "price": 300,
-      "category": "Outdoor",
-      "rating": 4.2,
-      "image": "https://globalgardeningsecrets.com/wp-content/uploads/2022/08/1661442330_514_11-beautiful-varieties-of-ZZ-plants-with-photos.webp.webp",
-      "description": "Popular air-purifying plant with long feathery leaves."
     }
   ],
   "cart": [
@@ -348,6 +348,15 @@
       "rating": 4.1,
       "image": "https://m.media-amazon.com/images/I/61NUj7J6VrL._SY300_SX300_QL70_FMwebp_.jpg",
       "description": "Popular air-purifying plant with long feathery leaves."
+    },
+    {
+      "id": "5",
+      "name": "Aloe Vera",
+      "category": "Medicinal",
+      "price": 200,
+      "rating": 4.8,
+      "image": "https://plus.unsplash.com/premium_photo-1673818150416-7b96596cfdf9?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGFsb2UlMjB2ZXJhfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600",
+      "description": "Succulent plant known for its healing and skin-soothing properties."
     }
   ]
 }
